@@ -1,0 +1,10 @@
+{
+	"name": "Simplex Color",
+	"version": "0.0.3",
+	"description": "Simplex Noise Color Palette Palette Generator.",
+	"author": "Fabio Soggia",
+	"devDependencies": {
+		"grunt": "^0.4.5",
+		"grunt-contrib-jshint": "^0.10.0"
+	}
+}
